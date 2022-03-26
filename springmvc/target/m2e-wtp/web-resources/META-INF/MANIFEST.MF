@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: ravish.bth
+Build-Jdk: 17.0.2
+Implementation-Title: springmvc Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.greatLearning
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
